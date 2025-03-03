@@ -47,6 +47,3 @@ const App = () => {
 };
 
 export default App;
-// to sign in use those ::
-// email: user@test.com
-// password: 123456
